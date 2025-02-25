@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm currently working as a software engineer at Capital One<br>- 📚 I'm currently building an AI Private Tutor: <a href="https://www.lumenoedu.ai/">Lumenoe</a><br>- ⚡ In my free time I like to lift and ride my bike</p>
+<p align="left">- 🔭 I'm currently working as a software engineer at Capital One<br>- 📚 I'm currently building an AI Private Tutor: <a href="https://www.lumenoedu.ai/">Lumeno AI</a><br>- ⚡ In my free time I like to lift and ride my bike</p>
 
 ###
 
